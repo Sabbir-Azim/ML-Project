@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ML-Project
+Version: 0.0.1
+Author: Sabbir Azim
+Author-email: fazley.azim.sabbir@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
